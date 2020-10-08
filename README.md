@@ -1,6 +1,6 @@
 # Snake
 
-This project is one of my first creations in the first year of learning code. It is 100% based on the populair [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)). It is written in [Visual Basic](https://docs.microsoft.com/nl-be/dotnet/visual-basic/getting-started/) and is a part of an assignment I got from school.
+This project is one of my first creations in the first year of learning code. It is 100% based on the populair [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)). It is written in [Visual Basic](https://docs.microsoft.com/nl-be/dotnet/visual-basic/getting-started/) and is a part of an assignment I got from the Catholic University of Leuven (Computersciences).
 
 ## Language
 
